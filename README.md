@@ -1,2 +1,2 @@
-# jetcoders-gallery
-JetCoders jQuery Gallery
+# JetCoders jQuery Gallery
+jQuery Gallery
